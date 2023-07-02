@@ -2,7 +2,7 @@
 //  SceneDelegate.m
 //  viewIsAppearing
 //
-//  Created by 刘述豪 on 2023/7/2.
+//  Created by Sharker on 2023/7/2.
 //
 
 #import "SceneDelegate.h"

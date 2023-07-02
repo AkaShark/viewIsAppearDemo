@@ -14,6 +14,7 @@
 		963049F22A51790A008898D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 963049F12A51790A008898D4 /* Assets.xcassets */; };
 		963049F52A51790A008898D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 963049F32A51790A008898D4 /* LaunchScreen.storyboard */; };
 		963049F82A51790A008898D4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 963049F72A51790A008898D4 /* main.m */; };
+		96304A002A5179AB008898D4 /* UIViewController+UpcomingFeature.m in Sources */ = {isa = PBXBuildFile; fileRef = 963049FF2A5179AB008898D4 /* UIViewController+UpcomingFeature.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		963049F42A51790A008898D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		963049F62A51790A008898D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		963049F72A51790A008898D4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		963049FE2A5179AB008898D4 /* UIViewController+UpcomingFeature.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIViewController+UpcomingFeature.h"; sourceTree = "<group>"; };
+		963049FF2A5179AB008898D4 /* UIViewController+UpcomingFeature.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+UpcomingFeature.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				963049E92A517908008898D4 /* SceneDelegate.m */,
 				963049EB2A517908008898D4 /* ViewController.h */,
 				963049EC2A517908008898D4 /* ViewController.m */,
+				963049FE2A5179AB008898D4 /* UIViewController+UpcomingFeature.h */,
+				963049FF2A5179AB008898D4 /* UIViewController+UpcomingFeature.m */,
 				963049EE2A517908008898D4 /* Main.storyboard */,
 				963049F12A51790A008898D4 /* Assets.xcassets */,
 				963049F32A51790A008898D4 /* LaunchScreen.storyboard */,
@@ -148,6 +153,7 @@
 			files = (
 				963049ED2A517908008898D4 /* ViewController.m in Sources */,
 				963049E72A517908008898D4 /* AppDelegate.m in Sources */,
+				96304A002A5179AB008898D4 /* UIViewController+UpcomingFeature.m in Sources */,
 				963049F82A51790A008898D4 /* main.m in Sources */,
 				963049EA2A517908008898D4 /* SceneDelegate.m in Sources */,
 			);
